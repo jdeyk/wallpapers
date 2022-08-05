@@ -1,2 +1,4 @@
 # wallpapers
-Repositorio de fondos imágenes - autor a quien correspondan
+Recopilación de imagenes de fondo.
+Crédito de las imagenes al autor que correspondan.
+Fuente: de la web
